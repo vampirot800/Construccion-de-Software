@@ -1,0 +1,59 @@
+head
+{	
+    font-family: arial, helvetica, sans-serif ;
+    text-align: center;
+}
+
+
+body
+{
+    background-color: rgb(216, 239, 241);
+    color: #555;
+    font-family: verdana;
+    margin: 0 auto;
+    max-width: 50em;
+    line-height: 1.5;
+    padding: 2em 1em;
+    /* No funciono esta imagen
+
+    background-image: url("practicas_tc2005b/climbing.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    */
+
+}
+
+h1
+{
+    font-size: 24pt; 
+    text-align: center;
+    color: #333;
+}
+
+h2
+{
+    font-family: verdana;
+  font-size: 20px;
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #333;
+}
+dt
+{
+    line-height: 1.5;
+    padding: 2em 1em;
+
+}
+article
+{
+    font-family: verdana;
+}
+
+footer
+{
+    color:rgb(182, 181, 228);
+    text-align: center;
+    font-family: verdana;
+}
+
