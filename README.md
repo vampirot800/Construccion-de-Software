@@ -1,3 +1,8 @@
-Los labs realizado en la clase de construcción de software.
+Laboratorios realizados para Construcción de software.
+-Ramiro Flores Villarreal
 
-Me disculpo por comprimir los primeros labs en .zip, no sabia que podia subir carpetas a github
+Los primeros labs fueron comprimidos en archivos.zip
+
+# El Lab 19 fue implementado en el proyecto.
+# El Lab 15 fue implementado en el ejercicio de clase.
+# El Lab 6 fue implementado en todos los laboratorios posteriores que incluyen eventos.
